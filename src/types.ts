@@ -101,4 +101,8 @@ export interface Options {
 		| 'leftCenter'
 		| 'rightCenter'
 		| 'center';
+	/**
+	 * Should the window close automatically when focus is lost
+	 */
+	closeOnFocusLost?: boolean;
 }
