@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [10.0.1](https://github.com/JJaks/menubar/compare/v10.0.0...v10.0.1) (2023-04-17)
+
 ## 10.0.0 (2023-04-17)
 
 
