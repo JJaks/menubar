@@ -97,7 +97,11 @@ export class Menubar extends EventEmitter {
 	 * Hide the menubar window.
 	 */
 	hideWindow(): void {
-		if (!this._browserWindow || !this._isVisible || !this._options.closeOnFocusLost) {
+		if (
+			!this._browserWindow ||
+			!this._isVisible ||
+			!this._options.closeOnFocusLost
+		) {
 			return;
 		}
 		this.emit('hide');

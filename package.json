@@ -7,8 +7,8 @@
   },
   "description": "high level way to create menubar desktop applications with electron",
   "files": [
-    "/assets",
-    "/lib"
+    "assets",
+    "lib"
   ],
   "homepage": "https://github.com/maxogden/menubar",
   "keywords": [
