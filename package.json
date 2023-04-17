@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxogden/menubar.git"
+    "url": "https://github.com/JJaks/menubar.git"
   },
   "scripts": {
     "build": "rimraf lib/ && tsc",
